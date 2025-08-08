@@ -29,26 +29,3 @@ We are an interdisciplinary team dedicated to integrating nanomaterials science,
 ### Postgraduate Students
 {% include team-list.html role="phd" group="pg" %}
 {% include team-list.html role="master" group="pg" %}
-
----
-
-### Research Fellows
-{% include team-list.html role="fellow" group="fellow" %}
-
----
-
-### Research Assistants
-{% include team-list.html role="ra" group="ra" %}
-
----
-
-### Visitors
-{% include team-list.html role="visitor" group="visitor" %}
-
----
-
-### Alumni
-We are incredibly proud of all of our alumni. If you’re missing and would like to be added, please email us.
-{% include team-list.html role="alumni" group="alumni" %}
-{% include team-list.html role="master-g" group="alumni" %}
-{% include team-list.html role="phd-g" group="alumni" %}
