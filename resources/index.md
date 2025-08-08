@@ -30,14 +30,19 @@ Book Chapters
 Patents
 ======
 
-<h3 style="text-align: left;">新型抗生素及其使用方法</h3>
+<h3 style="text-align: left;">DRUG COMPOSITION, METHOD FOR TREATING INFECTION, DISINFECTING COMPOSITION, AND DRUG ADJUVANT</h3>
 <ul>
-  <li>201880090658.2 / PCT/CN2018/122374 — Filed Dec 20, 2018 / Jan 3, 2018</li>
+  <li>Non-Provisional Patent Application: PWG/PA/1135/12/2021 (US)</li>
 </ul>
 
 <h3 style="text-align: left;">METHODS FOR TREATING BACTERIAL CELL POPULATIONS</h3>
 <ul>
   <li>PCT/CN2021/099665 — Filed Jun 11, 2021</li>
+</ul>
+
+<h3 style="text-align: left;">新型抗生素及其使用方法</h3>
+<ul>
+  <li>201880090658.2 / PCT/CN2018/122374 — Filed Dec 20, 2018 / Jan 3, 2018</li>
 </ul>
 
 <h3 style="text-align: left;">一种治疗耐碳青霉烯肺炎克雷伯氏菌感染的组合物</h3>
@@ -48,11 +53,6 @@ Patents
 <h3 style="text-align: left;">DEVELOPMENT OF SYNTHETIC PSEUDAMINIC ACID-BASED ANTIBACTERIAL VACCINES AGAINST ACINETOBACTER BAUMANNII</h3>
 <ul>
   <li>PCT/63/260,512</li>
-</ul>
-
-<h3 style="text-align: left;">DRUG COMPOSITION, METHOD FOR TREATING INFECTION, DISINFECTING COMPOSITION, AND DRUG ADJUVANT</h3>
-<ul>
-  <li>Non-Provisional Patent Application: PWG/PA/1135/12/2021 (US)</li>
 </ul>
 
 <h3 style="text-align: left;">1,2-BENZISOSELENAZOL-3(2H)-ONE derivatives as carbapenem antibiotic adjuvants</h3>
