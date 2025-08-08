@@ -30,3 +30,8 @@ Head (FSN) & Chair Professor of Microbiology
 
   Stanford's top 2% most highly cited scientists 2021 
 
+**Research interests**
+
+Bacterial AMR, Bacterial pathogenesis, Bacterial tolerance,  Novel antimicrobial drug discovery, Vaccine and monoclonal antibody therapy development, Genomics and metagenomics, One Health research
+
+
