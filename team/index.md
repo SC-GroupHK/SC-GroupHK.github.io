@@ -29,3 +29,10 @@ We are an interdisciplinary team dedicated to integrating nanomaterials science,
 ### Postgraduate Students
 {% include team-list.html role="phd" group="pg" %}
 {% include team-list.html role="master" group="pg" %}
+
+---
+
+## <i class="fas fa-feather-alt"></i>Collaborating Lab
+We collaborate closely with **Prof. Zhong Yuyue** and his team,  whose research focuses on leveraging starch to enhance food nutritional value, prevent obesity and diabetes, and develop advanced starch-based materials. Their innovative work complements our own and fosters a productive exchange of ideas.
+
+[Visit Prof. Zhong’s Lab Website →](https://yuyue0221.github.io/BFM-lab.github.io/team/){: target="_blank" rel="noopener"}
