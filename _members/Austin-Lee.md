@@ -8,9 +8,11 @@ group: staff
 image: images/Austin.jpg
 email: austin.lee@polyu.edu.hk
 ---
-Full-time staff in polyU, Staff No.:BF1761
+Full-time staff in polyU, Staff No.: BF1761
 
-Research Interests: Investigation of different antibiotics that effective to inhibit the growth of bacteria Klebsiella pneumoniae 
+Research Interests: 
+
+Investigation of different antibiotics that effective to inhibit the growth of bacteria Klebsiella pneumoniae 
 
 Two types of experiments mainly performed:
 
