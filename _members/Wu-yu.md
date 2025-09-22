@@ -5,7 +5,7 @@ search:
   - Yu
 role: phd
 group: pg
-image: images/Wu-yu.jpg
+image: images/Wu-yu.png
 email: yu-Amy.wu@connect.poly.hk
 ---
 PhD candidate
