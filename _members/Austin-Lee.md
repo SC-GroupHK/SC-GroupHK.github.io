@@ -3,8 +3,8 @@ title: Lee Ching Nam
 search:
   - C. Lee
   - Ching Nam
-role: ra
-group: ra
+role: staff
+group: staff
 image: images/Austin.jpg
 email: austin.lee@polyu.edu.hk
 ---
