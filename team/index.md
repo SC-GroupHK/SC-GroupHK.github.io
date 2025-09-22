@@ -32,6 +32,11 @@ We are an interdisciplinary team dedicated to integrating nanomaterials science,
 
 ---
 
+### Full-time Staff
+{% include team-list.html role="staff" group="staff" %}
+
+---
+
 ## <i class="fas fa-feather-alt"></i>Collaborating Lab
 We collaborate closely with **Prof. Zhong Yuyue** and his team,  whose research focuses on leveraging starch to enhance food nutritional value, prevent obesity and diabetes, and develop advanced starch-based materials. Their innovative work complements our own and fosters a productive exchange of ideas.
 
