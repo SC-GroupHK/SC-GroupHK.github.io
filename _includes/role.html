@@ -51,6 +51,11 @@
 {%- assign text = "Research Fellow" -%}
 {%- endif -%}
 
+{%- if include.type == "staff" -%}
+{%- assign text = "Full-time Staff" -%}
+{%- endif -%}
+
+
 {%- if include.type == "mascot" -%}
 {%- assign icon = "fas fa-dog" -%}
 {%- assign text = "Mascot" -%}
