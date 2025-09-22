@@ -16,6 +16,4 @@ Investigation of different antibiotics that effective to inhibit the growth of b
 
 Two types of experiments mainly performed:
 
-DNA sequencing
-
-MIC experiment 
+DNA sequencing, MIC experiment 
