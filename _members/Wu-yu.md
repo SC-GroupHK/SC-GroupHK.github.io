@@ -3,7 +3,7 @@ title: WU yu
 search:
   - Y. WU
   - Yu
-role: phd candidate
+role: phd
 group: pg
 image: images/Wu-yu.jpg
 email: yu-Amy.wu@connect.poly.hk
